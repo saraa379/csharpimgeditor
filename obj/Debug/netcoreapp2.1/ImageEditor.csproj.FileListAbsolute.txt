@@ -1,0 +1,11 @@
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\bin\Debug\netcoreapp2.1\ImageEditor.deps.json
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\bin\Debug\netcoreapp2.1\ImageEditor.runtimeconfig.json
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\bin\Debug\netcoreapp2.1\ImageEditor.runtimeconfig.dev.json
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\bin\Debug\netcoreapp2.1\ImageEditor.dll
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\bin\Debug\netcoreapp2.1\ImageEditor.pdb
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\obj\Debug\netcoreapp2.1\ImageEditor.csprojAssemblyReference.cache
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\obj\Debug\netcoreapp2.1\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\obj\Debug\netcoreapp2.1\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\obj\Debug\netcoreapp2.1\ImageEditor.AssemblyInfo.cs
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\obj\Debug\netcoreapp2.1\ImageEditor.dll
+C:\Users\Moon\Documents\Education\CampusMolndal\C#\Uppgift1-ImageEditor\ImageEditor\obj\Debug\netcoreapp2.1\ImageEditor.pdb
